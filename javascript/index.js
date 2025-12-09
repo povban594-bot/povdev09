@@ -1,2 +1,2 @@
-const a = 10
-console.log(a)
+let city = 'london';
+console.log(city);
